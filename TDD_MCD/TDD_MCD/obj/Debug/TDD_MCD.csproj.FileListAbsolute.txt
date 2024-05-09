@@ -1,0 +1,6 @@
+C:\Users\jbrq9\source\repos\TDD_MCD\TDD_MCD\bin\Debug\TDD_MCD.dll
+C:\Users\jbrq9\source\repos\TDD_MCD\TDD_MCD\bin\Debug\TDD_MCD.pdb
+C:\Users\jbrq9\source\repos\TDD_MCD\TDD_MCD\obj\Debug\TDD_MCD.csproj.AssemblyReference.cache
+C:\Users\jbrq9\source\repos\TDD_MCD\TDD_MCD\obj\Debug\TDD_MCD.csproj.CoreCompileInputs.cache
+C:\Users\jbrq9\source\repos\TDD_MCD\TDD_MCD\obj\Debug\TDD_MCD.dll
+C:\Users\jbrq9\source\repos\TDD_MCD\TDD_MCD\obj\Debug\TDD_MCD.pdb
